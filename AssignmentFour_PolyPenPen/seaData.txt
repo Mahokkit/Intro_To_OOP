@@ -1,0 +1,18 @@
+==========
+Sea Lion Data
+Location
+Latitude: 45.56
+
+Longitude: 15.89
+Gender: Male
+Spots #: 0
+
+==========
+Sea Lion Data
+Location
+Latitude: 45.423
+
+Longitude: 45.8
+Gender: Male
+Spots #: 32
+

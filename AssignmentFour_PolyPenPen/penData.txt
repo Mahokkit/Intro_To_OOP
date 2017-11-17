@@ -1,0 +1,77 @@
+==========
+Penguin Data
+Location
+Latitude: 45.56
+Longitude: 90.56
+
+Gender: Male
+Blood Pressure
+Systolic: 120
+Diastolic: 80
+
+==========
+Penguin Data
+Location
+Latitude: 45.56
+Longitude: 90.56
+
+Gender: Male
+Blood Pressure
+Systolic: 120
+Diastolic: 80
+
+==========
+Penguin Data
+Location
+Latitude: 45.423
+Longitude: 123.56
+
+Gender: Male
+Blood Pressure
+Systolic: 120
+Diastolic: 0
+
+==========
+Penguin Data
+Location
+Latitude: 45.423
+Longitude: 123.56
+
+Gender: Male
+Blood Pressure
+Systolic: 120
+Diastolic: 0
+
+==========
+Penguin Data
+Location
+Latitude: 45.423
+Longitude: 123.56
+
+Gender: Male
+Blood Pressure
+Systolic: 120
+Diastolic: 80
+
+==========
+Penguin Data
+Location
+Latitude: 0.0
+Longitude: 0.0
+
+Gender: Male
+Blood Pressure
+Systolic: 0
+Diastolic: 0
+
+==========
+Penguin Data
+Location
+Latitude: 0.0
+Longitude: 0.0
+
+Gender: Male
+Blood Pressure
+Systolic: 0
+Diastolic: 0
+

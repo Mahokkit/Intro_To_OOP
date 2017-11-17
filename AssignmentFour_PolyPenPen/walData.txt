@@ -1,0 +1,11 @@
+==========
+Walrus Data
+Location
+Latitude: 45.423
+Longitude: 45.8
+
+Gender: Male
+Dental Health: Good
+
+
+
